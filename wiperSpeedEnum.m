@@ -1,8 +1,8 @@
 classdef wiperSpeedEnum < Simulink.IntEnumType
     enumeration
-        zero (0)
-        low (12)
-        medium (23)
-        high (37)
+        zeroSpeed (0)
+        lowSpeed (12)
+        mediumSpeed (23)
+        highSpeed(37)
     end
 end

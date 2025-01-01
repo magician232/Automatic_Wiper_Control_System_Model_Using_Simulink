@@ -6,7 +6,7 @@
     <P Name="CreatedBy">ACER</P>
     <P Name="CreatedOn">Wed Jan 01 11:50:29 2025</P>
     <P Name="ModifiedBy">ACER</P>
-    <P Name="LastSaved">Wed Jan 01 13:09:12 2025</P>
+    <P Name="LastSaved">Wed Jan 01 18:57:22 2025</P>
     <P Name="Owner">bd</P>
     <P Name="OwnerType">BD_HARNESS</P>
     <P Name="OwnerPath">.</P>
@@ -34,7 +34,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">2|14|0|0|0|0|0</P>
-    <P Name="OpenGraphs"/>
+    <P Name="OpenGraphs">||automaticWiperController_Harness1</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
